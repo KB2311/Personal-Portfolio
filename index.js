@@ -35,13 +35,4 @@ class nav_link {
   }
 }
 
-class Form_validation {
-  constructor() {
-    this.name = document.getElementById("name");
-    this.email = document.getElementById("email");
-    this.description = document.getElementById("description");
-  }
-  
-}
-
 const nav = new nav_link();
